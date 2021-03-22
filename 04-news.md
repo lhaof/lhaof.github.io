@@ -1,6 +1,6 @@
 ---
 layout: news
-title: News
+title: About me
 description: Some news
 keywords: news
 nav-class: news
