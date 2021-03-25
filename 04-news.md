@@ -1,8 +1,8 @@
 ---
 layout: news
 title: About me
-description: Some news
+description: About me
 keywords: news
 nav-class: news
-permalink: /news/
+permalink: /
 ---
