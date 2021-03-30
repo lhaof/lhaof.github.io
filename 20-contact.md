@@ -3,10 +3,15 @@ layout: contact
 title: Contact
 description: Contact
 keywords:
-map: 53.742899, -0.350077
+map: 22.68811, 114.20991
 nav-class: contact
 exclude_from_nav: false
 permalink: /contact/
 ---
+Email: lhaof@foxmail.com (recommended);<br>
+&emsp;&emsp;&emsp;&ensp;lhaof@sribd.cn;<br>
+&emsp;&emsp;&emsp;&ensp;lihaofeng@cuhk.edu.cn
 
-If you'd like to get in touch, please send an email to [{{site.email}}](mailto:{{site.email}}?subject=Enquiry from the website').
+Office: DY306, Dao Yuan Building,<br>
+&emsp;&emsp;&emsp;&ensp;No.2001 Longxiang Road,<br>
+&emsp;&emsp;&emsp;&ensp;Longgang District, Shenzhen, China
