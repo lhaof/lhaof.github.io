@@ -170,6 +170,17 @@ nav-class: home
 </section>
 
 
+<section class="cf">
+<div class="wrapper">
+<h2>Patents</h2>
+<p>李灏峰，李冠彬，刘婷婷，黄婷婷，“图像处理方法、装置及电子设备”，编号CN111046379A，公开日2019/07/02</p>
+<p>李冠彬，曾怡瑞，李灏峰，林倞，“一种基于在线迭代生成器的对抗防御方法及系统”，编号CN110796608A，公开日2020/02/14</p>
+</div>
+</section>
+
+
+
+
 
 <section class="cf">
 <div class="wrapper">
@@ -211,53 +222,6 @@ English Level: IELTS 7.0 (Reading 8.5, Writing 7.0), CET-6 545, CET-4 576
 </p>
 </div>
 </section>
-
-
-<!--
-<section class="cf">
-<div class="wrapper">
-
-<div class="home-news-listing">
-<h2>News</h2>
-{% for post in site.posts limit:3 %}
-<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-<p><span class="inline-post-date">{{ post.date | date: "%b %-d, %Y" }}鈥?/span>{{ post.excerpt }}</p>
-{% endfor %}
-</div>
-
-<a class="read-more" href="/news/" title="News">More news 鈫?/a>
-
-</div>
-</section>
--->
-
-
-<!--
-<section class="home-case-listing cf">
-<div class="wrapper">
-
-<h2>Latest case study</h2>
-
-{% assign items = site.case | sort: 'date' %}
-{% for case in site.case limit:1 %}
-<h3 class="cf"><a title="{{ case.title }} Case study details" href="{{ case.url }}">{{ case.title }}</a></h3>
-
-<div class="grid">
--->
-<!--
-  <div class="grid__col grid__col--1-of-5 grid__col--m-1-of-3  grid__col--s-1-of-1">
-    {% if case.thumb %}<img src="/{{ site.theme-path }}/case-studies/{{ case.thumb }}" alt="{{ case.title }}" class="listing-thumb"/>{% endif %}
-  </div>
-  <div class="grid__col grid__col--4-of-5 grid__col--m-2-of-3   grid__col--s-1-of-1">
-    <p>{{ case.summary }}</p>
-  </div>
-
-</div>
-{% endfor %}
-<a class="read-more" href="/case-studies/" title="Case studies">More case studies 鈫?/a>
-</div>
-</section>
--->
 
 
 
