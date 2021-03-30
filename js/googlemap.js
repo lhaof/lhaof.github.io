@@ -54,7 +54,7 @@ var options = {
 maphull = new google.maps.Map(document.getElementById("map-hac"),options);
 
 var image = '/hac/hac-logo-map.svg';
-var HullLatLng = new google.maps.LatLng(53.743382, -0.345746);
+var HullLatLng = new google.maps.LatLng(22.6881, 114.20991);
 
 var rfdMarkerHull = new google.maps.Marker({
       position: HullLatLng,
