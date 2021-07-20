@@ -9,6 +9,9 @@ exclude_from_nav: false
 permalink: /recruitment/
 ---
 
+<b>[职位 1]:</b> 计算机信息工程博士
+
+<b>[工作内容]:</b> - 在导师和研究院指定医学影响分析领域开展科研，撰写并发表学术论文
 
 长期招收有意在本人指导下攻读香港中文大学（深圳）研究生学位的学生。可供申请的研究生学位包括：<a href="https://mscds.cuhk.edu.cn/a-183.html">数据科学理学硕士</a>, <a href="http://sse-mphil-phd.cuhk.edu.cn/zh-hans/basic/249">计算机信息工程硕士</a>, <a href="http://sse-mphil-phd.cuhk.edu.cn/zh-hans/basic/249">计算机信息工程博士</a>。
 
