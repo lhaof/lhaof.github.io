@@ -20,10 +20,10 @@ permalink: /recruitment/
 <b>[申请要求]:</b> 2022/2023年毕业的在读研究生/本科生；近期能前往研究院开展全职科研实习6个月以上；具有医学影像分析/图像处理/计算机视觉/深度学习经验者加分
 
 
-<b>[申请方式]:</b> 申请者请将来信导师邮箱lihaofeng@cuhk.edu.cn，说明申请职位、可全职实习的时间区间，并发送个人简历、官方正式成绩单、在读证明或学历学位证书、已发表或投稿中论文全文的pdf文件（勿打包）
-<b>[研究院主页]:</b> <a href="http://www.sribd.cn">www.sribd.cn</a>
-<b>[学校主页]:</b> <a href="https://www.cuhk.edu.cn">www.cuhk.edu.cn</a>
-<b>[导师主页]:</b> <a href="haofengli.net">haofengli.net</a>
+<b>[申请方式]:</b> 申请者请将来信导师邮箱lihaofeng@cuhk.edu.cn，说明申请职位、可全职实习的时间区间，并发送个人简历、官方正式成绩单、在读证明或学历学位证书、已发表或投稿中论文全文的pdf文件（勿打包）<br>
+<b>[研究院主页]:</b> <a href="http://www.sribd.cn">www.sribd.cn</a><br>
+<b>[学校主页]:</b> <a href="https://www.cuhk.edu.cn">www.cuhk.edu.cn</a><br>
+<b>[导师主页]:</b> <a href="haofengli.net">haofengli.net</a><br>
 
 更新时间：2021年7月29日
 
